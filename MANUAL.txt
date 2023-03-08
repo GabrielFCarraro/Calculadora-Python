@@ -1,0 +1,16 @@
+=============================================== PT-BR ===========================================
+Esta calculadora ainda está em desenvolvimento.
+Desenvolvido por Gabriel Carraro
+Versão: A.1.1
+
+-o botão "*%" "Equivale a x * y% = z"
+-o botão "+%" "Equivale a x + y% = z"
+
+
+=============================================== ENG-US ==========================================
+This calculator is still in development
+Developed By: Gabriel Carraro
+Version: A.1.1
+
+-The button "*%" is equal to "x * y% = z"
+-The button "+%" is equal to "x + y% = z"
