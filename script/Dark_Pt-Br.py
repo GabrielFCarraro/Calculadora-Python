@@ -168,7 +168,7 @@ def separador():
 #BOTÕES
 
 bt_7 = PhotoImage(file = 'png/buttons/blackbr/btn_7.png')
-botao_7 = Button (janela, text = '7', image = bt_7, height = 85, width = 90, border = 0, command = lambda: [botao(7), limite(),])#fg="white" para mudar a cor do botão
+botao_7 = Button (janela, text = '7', image = bt_7, height = 85, width = 90, border = 0, command = lambda: [botao(7), limite()])#fg="white" para mudar a cor do botão
 botao_7.place(x = 8, y = 268)
 
 bt_8 = PhotoImage(file = 'png/buttons/blackbr/btn_8.png')
